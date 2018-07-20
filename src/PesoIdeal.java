@@ -23,7 +23,7 @@ public class PesoIdeal {
 			peso = altura - 120;
 		}
 		
-		System.out.println("Tu peso ideal sería :"+peso);
+		System.out.println("Tu peso ideal sería : "+peso+" Kg");
 		
 		
 
